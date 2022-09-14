@@ -1,0 +1,8 @@
+{
+  "name": "MyApp",
+  "displayName": "MyApp",
+  "ios": {
+    "bundleIdentifier": "your bundle identifier",
+    "supportsTablet": true
+  }
+}
