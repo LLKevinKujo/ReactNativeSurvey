@@ -11,6 +11,8 @@
 ```bash
 # directory: ReactNativeSurvey/
 $ npm install
+# directory: ReactNativeSurvey/ios/
+$ pod install --repo-update
 ```
 
 ## Xcode Settings
