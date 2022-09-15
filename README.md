@@ -6,7 +6,7 @@
 2. Xcode (apple store)
 3. Xcode command line tools
 4. watchmen: 2022.08.29.00~ (brew install watchman)
-5. pod (sudo gem install cocoapods)
+5. pod: 1.11.3 (sudo gem install cocoapods)
 
 ---
 &nbsp;
